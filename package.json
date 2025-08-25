@@ -5,8 +5,8 @@
   "version": "0.0.1",
   "license": "MIT",
   "dependencies": {
-    "@ai-sdk/openai": "^1.0.0",
-    "@mastra/core": "^0.1.0",
-    "zod": "^3.23.0"
+    "@mastra/core": "latest",
+    "@ai-sdk/openai": "latest",
+    "zod": "latest"
   }
 }
